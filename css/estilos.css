@@ -1,0 +1,30 @@
+*{
+	padding: 0px;
+	margin: 0 auto;
+}
+.principal{
+	width: 1323px;
+	height: 603px;
+	border: solid 1px black;
+	background: linear-gradient(150deg, #3E3E3E, #5C6DC3, #3E3E3E);
+	animation: BgGradient 5s ease infinite;
+}
+#foto{
+	width: 1200px;
+	height: 400px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+.texto{
+	width: 1200px;
+	height: 150px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+#fuente{
+	font-family: Copperplate;
+	font-size: 20px;
+	margin-left: 5px;
+}
